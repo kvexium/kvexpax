@@ -1,2 +1,1 @@
-# xoc-libs
-xoc-libs
+# kvex-libs
